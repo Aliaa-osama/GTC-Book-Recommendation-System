@@ -1,0 +1,34 @@
+{
+  "tag_min_total_count": 15,
+  "stop_tags": [
+    "2014",
+    "2015",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "abandoned",
+    "audible",
+    "audio",
+    "audiobook",
+    "books-i-own",
+    "currently-reading",
+    "did-not-finish",
+    "dnf",
+    "e-book",
+    "ebook",
+    "ebooks",
+    "favorite",
+    "favorites",
+    "kindle",
+    "my-books",
+    "owned",
+    "to-read"
+  ],
+  "tfidf": {
+    "norm": "l2",
+    "use_idf": true,
+    "smooth_idf": true,
+    "sublinear_tf": false
+  }
+}
