@@ -85,5 +85,7 @@ A lightweight ML project that delivers **personalized book recommendations** for
 6. **Provide cleaned data** to model training team.
 
 ---
+## Presentation link
 
+https://www.canva.com/design/DAG0G4WN55Q/rfrpQ4eLXuAGpoTENGbxhw/edit?utm_content=DAG0G4WN55Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
